@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Runtime logs and transient files
+*.log
+streamlit.log
+
+# Exports and snapshots created at runtime
+exports/
+snapshots/
+AIMS_Report_*
+AIMS_Log_*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
